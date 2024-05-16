@@ -51,7 +51,7 @@ int main()
     // getline(cin, s1);
     // cout << s1;
     //  char
-    char ch = 'y';
-    cout << ch;
-    return 0;
+    // char ch = 'y';
+    // cout << ch;
+    // return 0;
 }
